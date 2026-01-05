@@ -1,0 +1,95 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# =========================
+# Unity cache & artifacts
+# =========================
+UserSettings/
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# IDE / Editor files
+# =========================
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb.meta
+
+# =========================
+# Unity Crash Reports
+# =========================
+sysinfo.txt
+
+# =========================
+# Build outputs (platform-specific)
+# =========================
+*.apk
+*.aab
+*.aar
+*.xcodeproj
+*.xcworkspace
+*.gradle
+.gradle/
+
+# =========================
+# Native binaries (use Git LFS if needed)
+# =========================
+*.dll
+*.so
+*.dylib
+*.bundle
+
+# =========================
+# Addressables & Asset Bundles
+# =========================
+aa.meta
+aa/
+AssetBundles/
+StreamingAssets/aa/
+
+# =========================
+# IL2CPP / Bee / Android build junk
+# =========================
+LibraryBee/
+Bee/
+il2cpp/
+Gradle/
+Android/
+
+# =========================
+# Visual Studio cache
+# =========================
+.vs/
+
+# =========================
+# Unity meta files (DO NOT IGNORE)
+# =========================
+!*.meta
